@@ -12,4 +12,4 @@ With features like fault-tolerant isolation, on-device mutation, and seamless le
 ---
 
 ## Where is the code?
-Initial development is still in progress. We are still attempting to determine what portion of this code will be made public. It will be int he range from 'some' to 'all' depending upon the final assessment.
+Initial development is still in progress. We are still attempting to determine what portion of this code will be made public. It will be in the range from 'some' to 'all' depending upon the final assessment.
